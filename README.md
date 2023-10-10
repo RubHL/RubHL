@@ -19,8 +19,8 @@ Por el momento, puedes  ver algo de mi trabajo en esta página web que creé mie
 
 <table align="center">
 	<tr>
-    <th>Linkedin</th>
-    <th><a href="http://www.linkedin.com/in/rubén-heredia-lópez-215001292">Rubén Heredia 📫</a></th>
+    <th><a href="http://www.linkedin.com/in/rubén-heredia-lópez-215001292">Linkedin</a></th>
+    <th><a href="mailto:rubenheredia.enlaces@gmail.com">Rubén Heredia 📫</a></th>
   </tr>
 </table>
 
