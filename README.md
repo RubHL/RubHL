@@ -14,11 +14,10 @@
 
 Me encanta solucionar los problemas de la forma más óptima, dispuesto a ayudar y a colaborar. Siempre estoy realizando algún proyecto mientras me formo constantemente. Actualmente, estoy desarrollando dos proyectos en paralelo orientados a la gestión del día a día y a la superación personal.
 
-Por el momento, puedes  ver algo de mi trabajo en esta página web que creé mientras me formaba en mis estudios de <b>desarrollador de aplicaciones web.</b>
-
+Por el momento, puedes ver algo de mi trabajo en esta <a href="https://rubhl.github.io/">página web</a>, una guía de programación que creé mientras me formaba en mis estudios de <b>desarrollador de aplicaciones web.</b>
 
 <table align="center">
-	<tr>
+  <tr>
     <th><a href="http://www.linkedin.com/in/rubén-heredia-lópez-215001292">Linkedin 💼</a></th>
     <th><a href="mailto:rubenheredia.enlaces@gmail.com">Email 📫</a></th>
   </tr>
